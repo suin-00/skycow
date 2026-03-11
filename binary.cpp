@@ -1,4 +1,4 @@
-/*include <algorithm>
+include <algorithm>
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -40,4 +40,5 @@ int main() {
     }
     cout << bin(0, right) << endl;
     return 0;
-}*/
+
+}
