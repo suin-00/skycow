@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -27,4 +27,3 @@ int main() {
         cout << -1 << endl;
     } else cout << road[1][K] + road[K][X] << endl;
 }
-*/
